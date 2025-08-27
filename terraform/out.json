@@ -1,0 +1,1 @@
+{"errorMessage": "name 'ec2' is not defined", "errorType": "NameError", "requestId": "063c9b11-7326-45e9-8275-e5a3569d33f3", "stackTrace": ["  File \"/var/task/analyze_metrics.py\", line 43, in lambda_handler\n    desc = ec2.describe_instances(InstanceIds=[INSTANCE_ID])\n"]}
