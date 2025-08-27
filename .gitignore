@@ -7,6 +7,7 @@ crash.log
 
 # EC2 key (private key must never be committed)
 terraform/my-key
+terraform/my-key.pub
 
 # Lambda build artifacts
 terraform/lambda/function.zip
