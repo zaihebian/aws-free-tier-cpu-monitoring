@@ -150,7 +150,8 @@ https://<endpoint>/query
 - **Correlation Heatmap** → Visualize metric relationships
 
 > 💡 *demo* deployed on Streamlit
-https://github.com/zaihebian/aws-free-tier-cpu-monitoring/main/AWS.mp4
+[Watch the demo video](https://raw.githubusercontent.com/zaihebian/aws-free-tier-cpu-monitoring/main/AWS.mp4)
+
 
 
 
