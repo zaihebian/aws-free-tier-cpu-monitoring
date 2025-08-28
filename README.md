@@ -149,7 +149,8 @@ https://<endpoint>/query
 - **Network In / Out Over Time** → Multi-series line chart
 - **Correlation Heatmap** → Visualize metric relationships
 
-> 💡 *Tip: Add screenshots of your Streamlit dashboard here for better presentation.*
+> 💡 *demo* deployed on Streamlit
+https://github.com/zaihebian/aws-free-tier-cpu-monitoring/blob/main/aws.mp4
 
 
 
